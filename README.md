@@ -1,5 +1,7 @@
 # CUE
 
+**Archived!!! Moved to [stacks](https://github.com/h8r-dev/stacks)**
+
 CUE Package Library for building Heighliner stack. You can import them in cue file easily.
 ```
 import "github.com/h8r-dev/cuelib/cd/argocd"
